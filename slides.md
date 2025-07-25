@@ -7,10 +7,15 @@ mdc: true
 theme: slidev-theme-cursor
 layout: cover
 ---
-<div class="flex flex-col items-center gap-4">
-  <h2 class="text-2xl font-bold">Access the Slides</h2>
-  <img src="./assets/slides_qr.png" alt="Cursor Logo" class="mx-auto" />
-  <a href="https://cursor-dubai.github.io/slides/" class="text-lg hover:underline">https://cursor-dubai.github.io/slides/</a>
+
+<div class="flex flex-col items-center gap-8 h-full justify-center">
+  <div class="bg-[#171717] border border-[#252525] rounded-lg p-8 max-w-md">
+    <h2 class="text-3xl font-bold mb-6">Access the Slides</h2>
+    <img src="./assets/slides_qr.png" alt="Slides QR Code" class="mx-auto mb-4 w-48" />
+    <div class="bg-[#0F0F0F] border border-[#252525] rounded p-3">
+      <a href="https://cursor-dubai.github.io/slides/" class="text-sm text-white opacity-80 hover:opacity-100 transition-opacity">cursor-dubai.github.io/slides</a>
+    </div>
+  </div>
 </div>
 
 ---
@@ -23,41 +28,160 @@ layout: cover
 
 # Community Map
 
-<a href="https://lu.ma/cursorcommunity/map" target="_blank">
-  <img src="./assets/map.png" alt="Community Map" class="mx-auto my-auto" />
-</a>
+<div class="flex items-center justify-center h-full">
+  <div class="bg-[#171717] border border-[#252525] rounded-lg p-6 max-w-4xl">
+    <a href="https://lu.ma/cursorcommunity/map" target="_blank" class="block hover:opacity-80 transition-opacity">
+      <img src="./assets/map.png" alt="Community Map" class="mx-auto rounded" />
+    </a>
+    <p class="text-center mt-4 text-sm opacity-80">Click to explore the global Cursor community</p>
+  </div>
+</div>
 
 ---
 
 # Welcome
 
-- **Juanjo de Olmo** – Cursor Ambassador UAE, Medical AI Specialist @ Department of Health Abu Dhabi
-- Special thanks to **Dan Perks** from Cursor team joining us virtually
+<div class="grid grid-cols-1 gap-6 mt-8">
+
+<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
+  <div class="flex items-center gap-4">
+    <div class="w-12 h-12 bg-[#6E6E6E] rounded-full flex items-center justify-center">
+      <span class="text-xl font-bold">JO</span>
+    </div>
+    <div>
+      <h3 class="font-semibold text-lg">Juanjo do Olmo</h3>
+      <p class="text-sm opacity-80">Cursor Ambassador UAE</p>
+      <p class="text-sm opacity-60">Medical AI Specialist @ Department of Health Abu Dhabi</p>
+    </div>
+  </div>
+</div>
+
+<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
+  <div class="flex items-center gap-4">
+    <div class="w-12 h-12 bg-[#6E6E6E] rounded-full flex items-center justify-center">
+      <span class="text-xl font-bold">DP</span>
+    </div>
+    <div>
+      <h3 class="font-semibold text-lg">Dan Perks</h3>
+      <p class="text-sm opacity-80">Cursor Team</p>
+      <p class="text-sm opacity-60">Joining us virtually at 6:00 PM</p>
+    </div>
+  </div>
+</div>
+
+</div>
 
 ---
 
 # About Your Host
 
-**Juanjo do Olmo** - Cursor UAE Ambassador
+<div class="grid grid-cols-2 gap-8 mt-8">
 
-- 🏥 Building Medical AI team @ Department of Health Abu Dhabi
-- 🎓 Pharmacy → AI/Research Masters → Healthcare AI and GenAI
-- 🚀 Co-founder **AI, Drugs & Robots** (170k+ social media community)
-- 💻 Teaching Cursor across Spanish-speaking AI programs
-- 🥋 BJJ practitioner & VR enthusiast
-- 🧠 Next obsession: Neuroscience & Neurotech
+<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
+  <h3 class="text-xl font-semibold mb-4">Professional</h3>
+  <div class="space-y-3">
+    <div class="flex items-start gap-3">
+      <span class="text-lg">🏥</span>
+      <span class="text-sm">Building Medical AI team @ <b>Department of Health Abu Dhabi</b></span>
+    </div>
+    <div class="flex items-start gap-3">
+      <span class="text-lg">🎓</span>
+      <span class="text-sm">Pharmacy → AI/Research Masters → Healthcare AI and GenAI</span>
+    </div>
+    <div class="flex items-start gap-3">
+      <span class="text-lg">🚀</span>
+      <span class="text-sm">Co-founder of <b>AI, Drugs & Robots</b> (170k+ community)</span>
+    </div>
+    <div class="flex items-start gap-3">
+      <span class="text-lg">💻</span>
+      <span class="text-sm">Teaching Cursor across Spanish-speaking AI programs</span>
+    </div>
+  </div>
+</div>
+
+<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
+  <h3 class="text-xl font-semibold mb-4">Personal</h3>
+  <div class="space-y-3">
+    <div class="flex items-start gap-3">
+      <span class="text-lg">🥋</span>
+      <span class="text-sm">BJJ practitioner 🟣</span>
+    </div>
+    <div class="flex items-start gap-3">
+      <span class="text-lg">🥽</span>
+      <span class="text-sm">VR enthusiast</span>
+    </div>
+    <div class="flex items-start gap-3">
+      <span class="text-lg">🧠</span>
+      <span class="text-sm">Next obsession: Neuroscience & Neurotech</span>
+    </div>
+  </div>
+</div>
+
+</div>
 
 ---
 
 # Agenda
 
-1. **4:30-5:00** - Welcome & Ice Breakers
-2. **5:00-5:30** - Juanjo: Cursor Is All You Need
-3. **5:30-6:00** - Q&A
-4. **6:00-6:30** - **Dan Perks** (Cursor Team) - Personal Intro & Cursor Q&A
-5. **6:30-7:00** - Juanjo: Advanced Demos 
-6. **7:00-8:30** - Networking, F&B & Open Discussions
-7. **8:30+** - Optional Afterparty 🎉
+<div class="grid grid-cols-1 gap-4 mt-8">
+
+<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded-lg">
+  <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">4:30-5:00</div>
+  <div class="flex-1">
+    <h3 class="font-semibold">Welcome & Ice Breakers</h3>
+    <p class="text-sm opacity-60">Getting to know the community</p>
+  </div>
+</div>
+
+<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded-lg">
+  <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">5:00-5:30</div>
+  <div class="flex-1">
+    <h3 class="font-semibold">Juanjo: Cursor Is All You Need</h3>
+    <p class="text-sm opacity-60">Introduction to Cursor fundamentals</p>
+  </div>
+</div>
+
+<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded-lg">
+  <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">5:30-6:00</div>
+  <div class="flex-1">
+    <h3 class="font-semibold">Q&A Session</h3>
+    <p class="text-sm opacity-60">Community questions & discussion</p>
+  </div>
+</div>
+
+<div class="flex items-center gap-4 p-4 bg-[#0F0F0F] border-2 border-[#6E6E6E] rounded-lg">
+  <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">6:00-6:30</div>
+  <div class="flex-1">
+    <h3 class="font-semibold">Dan Perks (Cursor Team)</h3>
+    <p class="text-sm opacity-60">Virtual session with special guest</p>
+  </div>
+</div>
+
+<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded-lg">
+  <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">6:30-7:00</div>
+  <div class="flex-1">
+    <h3 class="font-semibold">Juanjo: Advanced Demos</h3>
+    <p class="text-sm opacity-60">Power user workflows & tips</p>
+  </div>
+</div>
+
+<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded-lg">
+  <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">7:00-8:30</div>
+  <div class="flex-1">
+    <h3 class="font-semibold">Networking & F&B</h3>
+    <p class="text-sm opacity-60">Open discussions & community building</p>
+  </div>
+</div>
+
+<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded-lg">
+  <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">8:30+</div>
+  <div class="flex-1">
+    <h3 class="font-semibold">Optional Afterparty 🎉</h3>
+    <p class="text-sm opacity-60">Continue the conversation</p>
+  </div>
+</div>
+
+</div>
 
 ---
 layout: intro
@@ -245,33 +369,102 @@ layoutClass: gap-16
 
 # Special Guest from Cursor!
 
-**Dan Perks**  
-_Cursor Team_
-
-**6:00 PM - Virtual Session**
-- Introduction to Dan Perks
-- Live Q&A with the Community
+<div class="flex items-center justify-center h-full">
+  <div class="bg-[#171717] border border-[#252525] rounded-lg p-8 max-w-2xl text-center">
+    <div class="w-24 h-24 bg-[#6E6E6E] rounded-full flex items-center justify-center mx-auto mb-6">
+      <span class="text-2xl font-bold">DP</span>
+    </div>
+    <h2 class="text-3xl font-bold mb-2">Dan Perks</h2>
+    <p class="text-lg opacity-80 mb-6">Cursor Team</p>
+    
+    <div class="bg-[#0F0F0F] border border-[#252525] rounded-lg p-4 mb-6">
+      <div class="text-2xl font-bold mb-2">6:00 PM - Virtual Session</div>
+      <div class="text-sm opacity-60">Live from Cursor HQ</div>
+    </div>
+    
+    <div class="grid grid-cols-2 gap-4">
+      <div class="bg-[#0F0F0F] border border-[#252525] rounded p-3">
+        <div class="font-semibold text-sm">Personal Introduction</div>
+      </div>
+      <div class="bg-[#0F0F0F] border border-[#252525] rounded p-3">
+        <div class="font-semibold text-sm">Live Q&A</div>
+      </div>
+    </div>
+  </div>
+</div>
 
 ---
 
 # Call for Speakers
 
-## Future Cursor Events - Dubai & Abu Dhabi
+## **Future Cursor Events - Dubai & Abu Dhabi**
 
-### We're Looking For:
-- 🎯 **Cool Demos** - Show what you've built with Cursor
-- 🤝 **Partners & Sponsors** - Support our growing community
-- 👨‍🏫 **Teachers & Educators** - Share your expertise
-- 🚀 **Success Stories** - Inspire others with your journey
+<div class="grid grid-cols-2 gap-6 mt-8">
 
-**Contact:** juanjodoolmo@gmail.com
+<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
+  <h3 class="text-xl font-semibold mb-4 text-center">We're Looking For</h3>
+  <div class="space-y-4">
+    <div class="flex items-center gap-3">
+      <span class="text-2xl">🎯</span>
+      <div>
+        <div class="font-semibold">Cool Demos</div>
+        <div class="text-sm opacity-60">Show what you've built with Cursor</div>
+      </div>
+    </div>
+    <div class="flex items-center gap-3">
+      <span class="text-2xl">🤝</span>
+      <div>
+        <div class="font-semibold">Partners & Sponsors</div>
+        <div class="text-sm opacity-60">Support our growing community</div>
+      </div>
+    </div>
+    <div class="flex items-center gap-3">
+      <span class="text-2xl">👨‍🏫</span>
+      <div>
+        <div class="font-semibold">Teachers & Educators</div>
+        <div class="text-sm opacity-60">Share your expertise</div>
+      </div>
+    </div>
+    <div class="flex items-center gap-3">
+      <span class="text-2xl">🚀</span>
+      <div>
+        <div class="font-semibold">Success Stories</div>
+        <div class="text-sm opacity-60">Inspire others with your journey</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="bg-[#171717] border border-[#252525] rounded-lg p-6 flex flex-col justify-center">
+  <div class="text-center">
+    <h3 class="text-xl font-semibold mb-4">Get In Touch</h3>
+    <div class="bg-[#0F0F0F] border border-[#252525] rounded-lg p-4">
+      <div class="text-lg font-mono">juanjodoolmo@gmail.com</div>
+    </div>
+    <p class="text-sm opacity-60 mt-4">Ready to share your Cursor story?</p>
+  </div>
+</div>
+
+</div>
 
 ---
 
 # Join Cursor UAE Community
 
 <div class="flex items-center justify-center h-full">
-<img src="./assets/cursor-dubai.png" alt="Cursor UAE" class="w-96" />
+  <div class="bg-[#171717] border border-[#252525] rounded-lg p-8 text-center max-w-2xl">
+    <img src="./assets/cursor-dubai.png" alt="Cursor UAE" class="w-80 mx-auto mb-6 rounded" />
+    <h2 class="text-2xl font-bold mb-4">Connect with UAE Developers</h2>
+    <p class="opacity-80 mb-6">Join a growing community of AI-powered developers across Dubai and Abu Dhabi</p>
+    <div class="grid grid-cols-2 gap-4">
+      <div class="bg-[#0F0F0F] border border-[#252525] rounded p-3">
+        <div class="font-semibold text-sm">Weekly Tips</div>
+      </div>
+      <div class="bg-[#0F0F0F] border border-[#252525] rounded p-3">
+        <div class="font-semibold text-sm">Event Updates</div>
+      </div>
+    </div>
+  </div>
 </div>
 
 ---
@@ -279,61 +472,200 @@ _Cursor Team_
 # Scan to Join
 
 <div class="flex items-center justify-center h-full">
-<img src="./assets/cursor-uae-qr.png" alt="QR Code" class="w-64" />
+  <div class="bg-[#171717] border border-[#252525] rounded-lg p-8 text-center max-w-md">
+    <h2 class="text-2xl font-bold mb-6">Join WhatsApp Group</h2>
+    <div class="bg-white p-4 rounded-lg mb-6">
+      <img src="./assets/cursor-uae-qr.png" alt="QR Code" class="w-48 mx-auto" />
+    </div>
+    <div class="bg-[#0F0F0F] border border-[#252525] rounded-lg p-4 mb-4">
+      <div class="text-xs font-mono break-all">chat.whatsapp.com/FZal6fpgm2X1fQMJB46iV4</div>
+    </div>
+    <p class="text-sm opacity-60">Stay updated on all Cursor UAE events & tips</p>
+  </div>
 </div>
-
-**WhatsApp Group:** https://chat.whatsapp.com/FZal6fpgm2X1fQMJB46iV4
-
-_Stay updated on all Cursor UAE events & tips_
 
 ---
 
 # Upcoming Events
 
-## Cursor Abu Dhabi
-**Saturday, August 2nd**
-- Similar intro format
-- New demos & speakers
-- Growing the capital's tech community
+<div class="grid grid-cols-2 gap-8 mt-8">
 
-## After Summer - September 2025
-- **Large-scale events** in both Dubai & Abu Dhabi
-- International speakers
-- Hands-on workshops
-- Partner showcases
+<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
+  <div class="flex items-center gap-3 mb-4">
+    <div class="w-10 h-10 bg-[#6E6E6E] rounded-full flex items-center justify-center">
+      <span class="text-sm font-bold">AD</span>
+    </div>
+    <div>
+      <h3 class="text-xl font-semibold">Cursor Abu Dhabi</h3>
+      <p class="text-sm opacity-60">Saturday, August 2nd</p>
+    </div>
+  </div>
+  <div class="space-y-3">
+    <div class="flex items-center gap-2">
+      <span class="w-2 h-2 bg-[#6E6E6E] rounded-full"></span>
+      <span class="text-sm">Similar intro format</span>
+    </div>
+    <div class="flex items-center gap-2">
+      <span class="w-2 h-2 bg-[#6E6E6E] rounded-full"></span>
+      <span class="text-sm">New demos & speakers</span>
+    </div>
+    <div class="flex items-center gap-2">
+      <span class="w-2 h-2 bg-[#6E6E6E] rounded-full"></span>
+      <span class="text-sm">Growing the capital's tech community</span>
+    </div>
+  </div>
+</div>
+
+<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
+  <div class="flex items-center gap-3 mb-4">
+    <div class="w-10 h-10 bg-[#6E6E6E] rounded-full flex items-center justify-center">
+      <span class="text-sm font-bold">Q4</span>
+    </div>
+    <div>
+      <h3 class="text-xl font-semibold">After Summer</h3>
+      <p class="text-sm opacity-60">September 2025</p>
+    </div>
+  </div>
+  <div class="space-y-3">
+    <div class="flex items-center gap-2">
+      <span class="w-2 h-2 bg-[#6E6E6E] rounded-full"></span>
+      <span class="text-sm">Large-scale events in both cities</span>
+    </div>
+    <div class="flex items-center gap-2">
+      <span class="w-2 h-2 bg-[#6E6E6E] rounded-full"></span>
+      <span class="text-sm">International speakers</span>
+    </div>
+    <div class="flex items-center gap-2">
+      <span class="w-2 h-2 bg-[#6E6E6E] rounded-full"></span>
+      <span class="text-sm">Hands-on workshops</span>
+    </div>
+    <div class="flex items-center gap-2">
+      <span class="w-2 h-2 bg-[#6E6E6E] rounded-full"></span>
+      <span class="text-sm">Partner showcases</span>
+    </div>
+  </div>
+</div>
+
+</div>
 
 ---
 
 # Cursor UAE Vision
 
-## Building the Future Together
+## **Building the Future Together**
 
-- 🌍 **Connect** developers across the Emirates
-- 📚 **Educate** on AI-powered development
-- 🚀 **Accelerate** innovation in the region
-- 🤝 **Collaborate** with global Cursor community
+<div class="grid grid-cols-2 gap-6 mt-8">
+
+<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
+  <div class="flex items-center gap-3 mb-3">
+    <span class="text-2xl">🌍</span>
+    <h3 class="text-lg font-semibold">Connect</h3>
+  </div>
+  <p class="text-sm opacity-80">Build bridges between developers across the Emirates, fostering collaboration and knowledge sharing</p>
+</div>
+
+<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
+  <div class="flex items-center gap-3 mb-3">
+    <span class="text-2xl">📚</span>
+    <h3 class="text-lg font-semibold">Educate</h3>
+  </div>
+  <p class="text-sm opacity-80">Spread knowledge about AI-powered development and best practices for using Cursor effectively</p>
+</div>
+
+<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
+  <div class="flex items-center gap-3 mb-3">
+    <span class="text-2xl">🚀</span>
+    <h3 class="text-lg font-semibold">Accelerate</h3>
+  </div>
+  <p class="text-sm opacity-80">Drive innovation in the region by empowering developers with cutting-edge AI tools and workflows</p>
+</div>
+
+<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
+  <div class="flex items-center gap-3 mb-3">
+    <span class="text-2xl">🤝</span>
+    <h3 class="text-lg font-semibold">Collaborate</h3>
+  </div>
+  <p class="text-sm opacity-80">Strengthen ties with the global Cursor community while building our local ecosystem</p>
+</div>
+
+</div>
 
 ---
 
 # Let's Build Together
 
-## Today is Just the Beginning
+## **Today is Just the Beginning**
 
-- Share your projects powered by Cursor
-- Ask questions
-- Connect with peers
-- Shape the future of development in UAE
+<div class="grid grid-cols-2 gap-8 mt-8">
+
+<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
+  <h3 class="text-xl font-semibold mb-4 text-center">During the Event</h3>
+  <div class="space-y-3">
+    <div class="flex items-center gap-3">
+      <span class="w-6 h-6 bg-[#6E6E6E] rounded text-xs flex items-center justify-center">1</span>
+      <span class="text-sm">Share your projects powered by Cursor</span>
+    </div>
+    <div class="flex items-center gap-3">
+      <span class="w-6 h-6 bg-[#6E6E6E] rounded text-xs flex items-center justify-center">2</span>
+      <span class="text-sm">Ask questions and learn from peers</span>
+    </div>
+  </div>
+</div>
+
+<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
+  <h3 class="text-xl font-semibold mb-4 text-center">After Tonight</h3>
+  <div class="space-y-3">
+    <div class="flex items-center gap-3">
+      <span class="w-6 h-6 bg-[#6E6E6E] rounded text-xs flex items-center justify-center">3</span>
+      <span class="text-sm">Connect with the community</span>
+    </div>
+    <div class="flex items-center gap-3">
+      <span class="w-6 h-6 bg-[#6E6E6E] rounded text-xs flex items-center justify-center">4</span>
+      <span class="text-sm">Shape the future of development in UAE</span>
+    </div>
+  </div>
+</div>
+
+</div>
 
 ---
 
 # Thank You
 
-**Let's connect!**
-
-- Twitter/X: @claxterix
-- LinkedIn: Juanjo do Olmo
-- Community: **AI, Drugs & Robots** (170k+ followers)
-
-**See you next week in Abu Dhabi!**
-
-<small>© Cursor Community</small> 
+<div class="flex items-center justify-center h-full">
+  <div class="bg-[#171717] border border-[#252525] rounded-lg p-8 max-w-2xl text-center">
+    <h2 class="text-3xl font-bold mb-6">Let's Connect!</h2>
+    
+    <div class="grid grid-cols-1 gap-4 mb-8">
+      <div class="bg-[#0F0F0F] border border-[#252525] rounded-lg p-4 flex items-center gap-3">
+        <span class="text-xl">🐦</span>
+        <div class="text-left">
+          <div class="font-semibold">Twitter/X</div>
+          <div class="text-sm opacity-60">@claxterix</div>
+        </div>
+      </div>
+      
+      <div class="bg-[#0F0F0F] border border-[#252525] rounded-lg p-4 flex items-center gap-3">
+        <span class="text-xl">💼</span>
+        <div class="text-left">
+          <div class="font-semibold">LinkedIn</div>
+          <div class="text-sm opacity-60">Juanjo do Olmo</div>
+        </div>
+      </div>
+      
+      <div class="bg-[#0F0F0F] border border-[#252525] rounded-lg p-4 flex items-center gap-3">
+        <span class="text-xl">🤖</span>
+        <div class="text-left">
+          <div class="font-semibold">AI, Drugs & Robots</div>
+          <div class="text-sm opacity-60">170k+ followers community</div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="bg-[#6E6E6E] text-white rounded-lg p-4 mb-6">
+      <div class="font-bold text-lg">See you next week in Abu Dhabi!</div>
+    </div>
+    
+    <div class="text-xs opacity-40">© Cursor Community</div>
+  </div>
+</div> 
