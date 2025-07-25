@@ -367,31 +367,34 @@ Cursor is a programming environment powered by large language models (LLMs) desi
 
 ---
 
-# Special Guest from Cursor!
+## Special Guest from Cursor!
 
 <div class="flex items-center justify-center h-full">
-  <div class="bg-[#171717] border border-[#252525] rounded-lg p-8 max-w-2xl text-center">
-    <div class="w-24 h-24 bg-[#6E6E6E] rounded-full flex items-center justify-center mx-auto mb-6">
-      <span class="text-2xl font-bold">DP</span>
-    </div>
-    <h2 class="text-3xl font-bold mb-2">Dan Perks</h2>
-    <p class="text-lg opacity-80 mb-6">Cursor Team</p>
-    
-    <div class="bg-[#0F0F0F] border border-[#252525] rounded-lg p-4 mb-6">
-      <div class="text-2xl font-bold mb-2">6:00 PM - Virtual Session</div>
-      <div class="text-sm opacity-60">Live from Cursor HQ</div>
-    </div>
-    
-    <div class="grid grid-cols-2 gap-4">
-      <div class="bg-[#0F0F0F] border border-[#252525] rounded p-3">
-        <div class="font-semibold text-sm">Personal Introduction</div>
-      </div>
-      <div class="bg-[#0F0F0F] border border-[#252525] rounded p-3">
-        <div class="font-semibold text-sm">Live Q&A</div>
-      </div>
-    </div>
-  </div>
+<div class="bg-[#171717] border border-[#252525] rounded-lg p-8 max-w-2xl text-center">
+<div class="w-24 h-24 bg-[#6E6E6E] rounded-full flex items-center justify-center mx-auto mb-6">
+<span class="text-2xl font-bold">DP</span>
 </div>
+<h2 class="text-3xl font-bold mb-2">Dan Perks</h2>
+<p class="text-lg opacity-80 mb-6">Cursor Team</p>
+
+<div class="bg-[#0F0F0F] border border-[#252525] rounded-lg p-4 mb-6">
+<div class="text-2xl font-bold mb-2">6:00 PM - Virtual Session</div>
+
+</div>
+
+<div class="grid grid-cols-2 gap-4">
+<div class="bg-[#0F0F0F] border border-[#252525] rounded p-3">
+<div class="font-semibold text-sm">Personal Introduction</div>
+</div>
+<div class="bg-[#0F0F0F] border border-[#252525] rounded p-3">
+<div class="font-semibold text-sm">Live Q&A</div>
+</div>
+</div>
+</div>
+</div>
+---
+
+demos
 
 ---
 
@@ -449,13 +452,11 @@ Cursor is a programming environment powered by large language models (LLMs) desi
 
 ---
 
-# Join Cursor UAE Community
+## Join Cursor UAE Community
 
 <div class="flex items-center justify-center h-full">
   <div class="bg-[#171717] border border-[#252525] rounded-lg p-8 text-center max-w-2xl">
     <img src="./assets/cursor-dubai.png" alt="Cursor UAE" class="w-80 mx-auto mb-6 rounded" />
-    <h2 class="text-2xl font-bold mb-4">Connect with UAE Developers</h2>
-    <p class="opacity-80 mb-6">Join a growing community of AI-powered developers across Dubai and Abu Dhabi</p>
     <div class="grid grid-cols-2 gap-4">
       <div class="bg-[#0F0F0F] border border-[#252525] rounded p-3">
         <div class="font-semibold text-sm">Weekly Tips</div>
@@ -472,15 +473,8 @@ Cursor is a programming environment powered by large language models (LLMs) desi
 # Scan to Join
 
 <div class="flex items-center justify-center h-full">
-  <div class="bg-[#171717] border border-[#252525] rounded-lg p-8 text-center max-w-md">
-    <h2 class="text-2xl font-bold mb-6">Join WhatsApp Group</h2>
-    <div class="bg-white p-4 rounded-lg mb-6">
-      <img src="./assets/cursor-uae-qr.png" alt="QR Code" class="w-48 mx-auto" />
-    </div>
-    <div class="bg-[#0F0F0F] border border-[#252525] rounded-lg p-4 mb-4">
-      <div class="text-xs font-mono break-all">chat.whatsapp.com/FZal6fpgm2X1fQMJB46iV4</div>
-    </div>
-    <p class="text-sm opacity-60">Stay updated on all Cursor UAE events & tips</p>
+  <div class="bg-[#171717] border border-[#252525] rounded-lg p-8 text-center max-w-lg">
+      <img src="./assets/cursor-uae-qr.png" alt="QR Code" class="w-64 mx-auto" />
   </div>
 </div>
 
@@ -630,29 +624,26 @@ Cursor is a programming environment powered by large language models (LLMs) desi
 
 ---
 
-# Thank You
+## Thank You    <div class="text-xs opacity-40">© Cursor Community</div>
 
 <div class="flex items-center justify-center h-full">
   <div class="bg-[#171717] border border-[#252525] rounded-lg p-8 max-w-2xl text-center">
-    <h2 class="text-3xl font-bold mb-6">Let's Connect!</h2>
-    
-    <div class="grid grid-cols-1 gap-4 mb-8">
+    <h2 class="text-3xl font-bold mb-6">Let's Connect!</h2>    
+    <div class="grid grid-cols-1 gap-2 mb-2">
       <div class="bg-[#0F0F0F] border border-[#252525] rounded-lg p-4 flex items-center gap-3">
         <span class="text-xl">🐦</span>
         <div class="text-left">
           <div class="font-semibold">Twitter/X</div>
           <div class="text-sm opacity-60">@claxterix</div>
         </div>
-      </div>
-      
+      </div>      
       <div class="bg-[#0F0F0F] border border-[#252525] rounded-lg p-4 flex items-center gap-3">
         <span class="text-xl">💼</span>
         <div class="text-left">
           <div class="font-semibold">LinkedIn</div>
           <div class="text-sm opacity-60">Juanjo do Olmo</div>
         </div>
-      </div>
-      
+      </div>      
       <div class="bg-[#0F0F0F] border border-[#252525] rounded-lg p-4 flex items-center gap-3">
         <span class="text-xl">🤖</span>
         <div class="text-left">
@@ -660,12 +651,9 @@ Cursor is a programming environment powered by large language models (LLMs) desi
           <div class="text-sm opacity-60">170k+ followers community</div>
         </div>
       </div>
-    </div>
-    
+    </div>    
     <div class="bg-[#6E6E6E] text-white rounded-lg p-4 mb-6">
       <div class="font-bold text-lg">See you next week in Abu Dhabi!</div>
-    </div>
-    
-    <div class="text-xs opacity-40">© Cursor Community</div>
+    </div>    
   </div>
 </div> 
