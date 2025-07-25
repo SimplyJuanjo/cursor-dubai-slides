@@ -13,7 +13,7 @@ layout: cover
     <h2 class="text-3xl font-bold mb-6">Access the Slides</h2>
     <img src="./assets/slides_qr.png" alt="Slides QR Code" class="mx-auto mb-4 w-48" />
     <div class="bg-[#0F0F0F] border border-[#252525] rounded p-3">
-      <a href="https://simplyJuanjo.github.io/slides/" class="text-sm text-white opacity-80 hover:opacity-100 transition-opacity">simplyJuanjo.github.io/slides</a>
+      <a href="https://SimplyJuanjo.github.io/cursor-dubai-slides/" class="text-sm text-white opacity-80 hover:opacity-100 transition-opacity">SimplyJuanjo.github.io/cursor-dubai-slides</a>
     </div>
   </div>
 </div>
