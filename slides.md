@@ -1,7 +1,7 @@
 ---
-title: Cursor Meetup Bangalore
+title: Cursor Meetup Dubai
 info: |
-  22 May 2025 · 7 PM – 9 PM · Bengaluru, Karnataka
+  26 July 2025 · 4:30 PM – 8:30 PM · Dubai, UAE
 class: bg-[#0F0F0F] text-white text-center
 mdc: true
 theme: slidev-theme-cursor
@@ -10,13 +10,13 @@ layout: cover
 <div class="flex flex-col items-center gap-4">
   <h2 class="text-2xl font-bold">Access the Slides</h2>
   <img src="./assets/slides_qr.png" alt="Cursor Logo" class="mx-auto" />
-  <a href="https://sanjeed5.github.io/cursor-slidev/" class="text-lg hover:underline">https://sanjeed5.github.io/cursor-slidev/</a>
+  <a href="https://cursor-dubai.github.io/slides/" class="text-lg hover:underline">https://cursor-dubai.github.io/slides/</a>
 </div>
 
 ---
 
 <GlowBackground>
-  <h1 class="text-6xl md:text-8xl font-bold tracking-tight text-white">Cursor Bangalore</h1>
+  <h1 class="text-6xl md:text-8xl font-bold tracking-tight text-white">Cursor Dubai</h1>
 </GlowBackground>
 
 ---
@@ -31,79 +31,87 @@ layout: cover
 
 # Welcome
 
-- **Sanjeed** – Cursor Ambassador India, AI Consultant
-- Thanks to **Lightspeed India Partners** for the venue  
-- Thanks to **Utopia** for being our community partner
+- **Juanjo de Olmo** – Cursor Ambassador UAE, Medical AI Specialist @ Department of Health Abu Dhabi
+- Special thanks to **Dan Perks** from Cursor team joining us virtually
+
+---
+
+# About Your Host
+
+**Juanjo do Olmo** - Cursor UAE Ambassador
+
+- 🏥 Building Medical AI team @ Department of Health Abu Dhabi
+- 🎓 Pharmacy → AI/Research Masters → Healthcare AI and GenAI
+- 🚀 Co-founder **AI, Drugs & Robots** (170k+ social media community)
+- 💻 Teaching Cursor across Spanish-speaking AI programs
+- 🥋 BJJ practitioner & VR enthusiast
+- 🧠 Next obsession: Neuroscience & Neurotech
 
 ---
 
 # Agenda
 
-1. Welcome & Introductions  
-2. Cursor **Power Users Tips & Workflows**  
-3. Special Guest Speaker – **Eric Zakariasson** (Cursor)  
-4. Networking & Community  
+1. **4:30-5:00** - Welcome & Ice Breakers
+2. **5:00-5:30** - Juanjo: Cursor Is All You Need
+3. **5:30-6:00** - Q&A
+4. **6:00-6:30** - **Dan Perks** (Cursor Team) - Personal Intro & Cursor Q&A
+5. **6:30-7:00** - Juanjo: Advanced Demos 
+6. **7:00-8:30** - Networking, F&B & Open Discussions
+7. **8:30+** - Optional Afterparty 🎉
+
+---
+<Juanjo esto hay q rehacerlo>
+# Why Cursor?
+
+## Beyond Just Coding
+
+- 🧠 **Second Brain** for Knowledge Management
+- 💻 **All-in-One** Development Environment
+- 🚀 **AI-Powered** Productivity Multiplier
+- 🤝 **Community-Driven** Innovation
 
 ---
 
-# Speaker 1
+# Demo Preview
 
-- **Anurag**: _Scaling a Portfolio of Products with Cursor_
-  - Indie Founder @productlogz, @quotesmatic_ai
-  - https://x.com/ak_8085
+## What We'll Cover Today
 
----
-
-# Speaker 2
-
-- **Darshill**: _Rapid Cross-Platform Refactors with Cursor Agent_
-  - Building http://Linkrunner.io
-  - Founding Team @bluelearn
+1. **Coding Demo** - Building something cool with Cursor
+2. **Knowledge Management** - Using Cursor as a second brain
+3. **Power User Tips** - Workflows that save hours
+</Juanjo>
 
 ---
 
-# Speaker 3
+# Special Guest from Cursor!
 
-- **Siddhant Goswami**:
-  - Built & scaled 3 products to $10M+
-  - Building @100xengineers, 2 exits (Tapchief, Scenes)
-  - https://x.com/geeksiddhant
+**Dan Perks**  
+_Cursor Team_
 
----
-
-# Speaker 4
-
-- **Sanjeed**:
-  - Topic: _How I made these slides using Cursor and Background Agent demo_
-  - Applied AI consultant & Cursor Ambassador India
-  - Created [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - 1400+ stars
-  - Worked with Langchain on multi-turn evals in the [openevals repo by Langchain](https://github.com/langchain-ai/openevals?tab=readme-ov-file#acknowledgements)
-  - https://x.com/sanjeed_i · sanjeed.in
+**6:00 PM - Virtual Session**
+- Introduction to Dan Perks
+- Live Q&A with the Community
 
 ---
 
-# Speaker 5
+# Call for Speakers
 
-- **Rudrag Rudraksh Karpe**: _Setting up cursor rules_
-  - LLM Engineer at ZS Associates
-  - Google Summer of Code Contributor @ openSUSE
+## Future Cursor Events - Dubai & Abu Dhabi
 
----
+### We're Looking For:
+- 🎯 **Cool Demos** - Show what you've built with Cursor
+- 🤝 **Partners & Sponsors** - Support our growing community
+- 👨‍🏫 **Teachers & Educators** - Share your expertise
+- 🚀 **Success Stories** - Inspire others with your journey
 
-# Special Guest Speaker from Cursor!
-
-**Eric Zakariasson**  
-
-Follow him on X for best Cursor tips! -> (<https://x.com/ericzakariasson>)
-
-_Topic: Q&A with Bangalore Cursor Community_
+**Contact:** juanjodoolmo@gmail.com
 
 ---
 
-# Join the Cursor India Group
+# Join Cursor UAE Community
 
 <div class="flex items-center justify-center h-full">
-<img src="./assets/cursor_india.png" alt="Cursor India" class="w-96" />
+<img src="./assets/cursor-dubai.png" alt="Cursor UAE" class="w-96" />
 </div>
 
 ---
@@ -111,18 +119,61 @@ _Topic: Q&A with Bangalore Cursor Community_
 # Scan to Join
 
 <div class="flex items-center justify-center h-full">
-<img src="./assets/cursor_india_qr.jpeg" alt="QR Code" class="w-64" />
+<img src="./assets/cursor-uae-qr.png" alt="QR Code" class="w-64" />
 </div>
 
-_Join our WhatsApp group & stay updated on all things Cursor_
+**WhatsApp Group:** https://chat.whatsapp.com/FZal6fpgm2X1fQMJB46iV4
+
+_Stay updated on all Cursor UAE events & tips_
+
+---
+
+# Upcoming Events
+
+## Cursor Abu Dhabi
+**Saturday, August 2nd**
+- Similar intro format
+- New demos & speakers
+- Growing the capital's tech community
+
+## After Summer - September 2025
+- **Large-scale events** in both Dubai & Abu Dhabi
+- International speakers
+- Hands-on workshops
+- Partner showcases
+
+---
+
+# Cursor UAE Vision
+
+## Building the Future Together
+
+- 🌍 **Connect** developers across the Emirates
+- 📚 **Educate** on AI-powered development
+- 🚀 **Accelerate** innovation in the region
+- 🤝 **Collaborate** with global Cursor community
+
+---
+
+# Let's Build Together
+
+## Today is Just the Beginning
+
+- Share your projects powered by Cursor
+- Ask questions
+- Connect with peers
+- Shape the future of development in UAE
 
 ---
 
 # Thank You
-Questions? Reach out to me on X!
 
-- Website: <https://www.sanjeed.in>
-- Twitter: <https://x.com/sanjeed_i>
-- LinkedIn: <https://linkedin.com/in/msanjeed>
+**Let's connect!**
+
+- Twitter/X: @claxterix
+- LinkedIn: Juanjo do Olmo
+- Community: **AI, Drugs & Robots** (170k+ followers)
+
+**See you next week in Abu Dhabi!**
 
 <small>© Cursor Community</small> 
