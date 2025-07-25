@@ -394,7 +394,33 @@ Cursor is a programming environment powered by large language models (LLMs) desi
 </div>
 ---
 
-demos
+# Demo Time! 
+
+## **See Cursor in Action**
+
+<div class="grid grid-cols-1 gap-6 mt-12">
+
+<div class="bg-[#171717] border border-[#252525] rounded-lg p-8 text-center">
+<h3 class="text-2xl font-bold mb-4">Real Daily Workflows</h3>
+<p class="opacity-80 text-lg">From quick fixes to complex features - let's see how Cursor transforms everyday development</p>
+</div>
+
+<div class="grid grid-cols-3 gap-4 mt-8">
+<div class="bg-[#0F0F0F] border border-[#252525] rounded-lg p-4 text-center">
+<div class="text-3xl mb-2">⚡</div>
+<div class="font-semibold text-sm">Quick Slides</div>
+</div>
+<div class="bg-[#0F0F0F] border border-[#252525] rounded-lg p-4 text-center">
+<div class="text-3xl mb-2">🔍</div>
+<div class="font-semibold text-sm">Knowledge</div>
+</div>
+<div class="bg-[#0F0F0F] border border-[#252525] rounded-lg p-4 text-center">
+<div class="text-3xl mb-2">🤖</div>
+<div class="font-semibold text-sm">AI Coding</div>
+</div>
+</div>
+
+</div>
 
 ---
 
@@ -624,7 +650,8 @@ demos
 
 ---
 
-## Thank You    <div class="text-xs opacity-40">© Cursor Community</div>
+## Thank You    
+<div class="text-xs opacity-40">© Cursor Community</div>
 
 <div class="flex items-center justify-center h-full">
   <div class="bg-[#171717] border border-[#252525] rounded-lg p-8 max-w-2xl text-center">
