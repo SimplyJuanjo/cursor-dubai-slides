@@ -60,26 +60,186 @@ layout: cover
 7. **8:30+** - Optional Afterparty 🎉
 
 ---
-<Juanjo esto hay q rehacerlo>
-# Why Cursor?
+layout: intro
+---
 
-## Beyond Just Coding
+# Cursor Is All You Need
 
-- 🧠 **Second Brain** for Knowledge Management
-- 💻 **All-in-One** Development Environment
-- 🚀 **AI-Powered** Productivity Multiplier
-- 🤝 **Community-Driven** Innovation
+**The AI-First Programming Environment**
 
 ---
 
-# Demo Preview
+# What is Cursor?
 
-## What We'll Cover Today
+<div class="grid grid-cols-1 gap-6">
 
-1. **Coding Demo** - Building something cool with Cursor
-2. **Knowledge Management** - Using Cursor as a second brain
-3. **Power User Tips** - Workflows that save hours
-</Juanjo>
+## **An AI-First Code Editor**
+Cursor is a programming environment powered by large language models (LLMs) designed to support developers across the spectrum of AI-assisted programming.
+
+## **Key Concepts**
+- **LLMs**: Predict the next token using context (conversation + files + prompts)
+- **Context**: The data the model sees when generating responses
+- **Tokens**: Units of text that determine size and cost
+- **Model Selection**: Choose LLMs based on reasoning, speed, or cost
+
+</div>
+
+---
+layout: two-cols
+layoutClass: gap-16
+---
+
+# Core Features
+
+::left::
+
+## **🎯 Tab (Autocomplete)**
+- In-house model trained on code
+- Multi-line and block suggestions
+- Cross-file navigation
+- Natural coding workflow
+
+## **✏️ Inline Edit**
+- Highlight code + Cmd+K
+- Perfect for refactoring
+- Add documentation
+- Rewrite functions
+
+::right::
+
+## **🤖 Agent**
+- Read/write codebase access
+- Ask mode: Query responses
+- Agent mode: Takes action
+- Multi-step reasoning
+- Background execution
+
+---
+
+# AI Foundations
+
+## **Understanding Context Management**
+
+<div class="grid grid-cols-2 gap-8 mt-8">
+
+<div class="bg-[#171717] border border-[#252525] rounded p-6">
+
+### **Context Window**
+- System prompts
+- File attachments
+- User input
+- Conversation history
+
+</div>
+
+<div class="bg-[#171717] border border-[#252525] rounded p-6">
+
+### **Smart Features**
+- Context visualization
+- Auto-summarization
+- Intelligent caching
+- Tool calling
+
+</div>
+
+</div>
+
+---
+
+# AI-Assisted Development
+
+## **Use Cases & Best Practices**
+
+<div class="grid grid-cols-3 gap-6 mt-8">
+
+<div class="bg-[#171717] border border-[#252525] rounded p-4">
+
+### **Generation**
+- Code creation
+- Test writing
+- Documentation
+- Planning
+
+</div>
+
+<div class="bg-[#171717] border border-[#252525] rounded p-4">
+
+### **Analysis**
+- Code search
+- Debugging
+- Refactoring
+- Optimization
+
+</div>
+
+<div class="bg-[#171717] border border-[#252525] rounded p-4">
+
+### **Best Practices**
+- Small commits
+- Strong tests
+- Clear prompts
+- Version control
+
+</div>
+
+</div>
+
+---
+
+# Workflow Progression
+
+## **From Beginner to Power User**
+
+<div class="flex flex-col gap-4 mt-8">
+
+<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded">
+  <div class="w-8 h-8 bg-[#6E6E6E] text-white rounded-full flex items-center justify-center font-bold">1</div>
+  <div><strong>Tab Autocomplete:</strong> Begin typing and accept suggestions with Tab</div>
+</div>
+
+<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded">
+  <div class="w-8 h-8 bg-[#6E6E6E] text-white rounded-full flex items-center justify-center font-bold">2</div>
+  <div><strong>Inline Edit:</strong> Select code, press Cmd+K, ask for changes</div>
+</div>
+
+<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded">
+  <div class="w-8 h-8 bg-[#6E6E6E] text-white rounded-full flex items-center justify-center font-bold">3</div>
+  <div><strong>Agent Chat:</strong> "Add tests" or "Refactor this class" (Cmd+I)</div>
+</div>
+
+<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded">
+  <div class="w-8 h-8 bg-[#6E6E6E] text-white rounded-full flex items-center justify-center font-bold">4</div>
+  <div><strong>Background Agent:</strong> Run broader tasks like "Find and fix bugs"</div>
+</div>
+
+</div>
+
+---
+
+# Why Cursor Is All You Need
+
+<div class="grid grid-cols-2 gap-8 mt-8">
+
+<div>
+
+## **Beyond Just Coding**
+- 🧠 **Second Brain** for Knowledge Management
+- 💻 **All-in-One** Development Environment  
+- 🚀 **AI-Powered** Productivity Multiplier
+
+</div>
+
+<div>
+
+## **Model Agnostic**
+- Choose the best LLM for each task
+- Frontier models, multimodal, local models, etc.
+- Cost vs. performance optimization
+- Future-proof architecture
+
+</div>
+
+</div>
 
 ---
 
