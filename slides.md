@@ -674,7 +674,7 @@ Cursor is a programming environment powered by large language models (LLMs) desi
       <div class="bg-[#0F0F0F] border border-[#252525] rounded-lg p-4 flex items-center gap-3">
         <span class="text-xl">🤖</span>
         <div class="text-left">
-          <div class="font-semibold">AI, Drugs & Robots</div>
+          <div class="font-semibold">AI, Drugs & Robots (@aidrugsyrobots)</div>
           <div class="text-sm opacity-60">170k+ followers community</div>
         </div>
       </div>
