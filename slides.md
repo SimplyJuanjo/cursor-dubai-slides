@@ -46,7 +46,7 @@ layout: cover
 <div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
   <div class="flex items-center gap-4">
     <div class="w-12 h-12 bg-[#6E6E6E] rounded-full flex items-center justify-center">
-      <span class="text-xl font-bold">JO</span>
+      <span class="text-xl font-bold">JdO</span>
     </div>
     <div>
       <h3 class="font-semibold text-lg">Juanjo do Olmo</h3>
@@ -122,62 +122,54 @@ layout: cover
 ---
 
 # Agenda
+<div class="grid grid-cols-1 gap-1 mt-2">
 
-<div class="grid grid-cols-1 gap-4 mt-8">
-
-<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded-lg">
+<div class="flex items-center gap-4 p-3 bg-[#171717] border border-[#252525] rounded-lg">
   <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">4:30-5:00</div>
   <div class="flex-1">
     <h3 class="font-semibold">Welcome & Ice Breakers</h3>
-    <p class="text-sm opacity-60">Getting to know the community</p>
   </div>
 </div>
 
-<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded-lg">
+<div class="flex items-center gap-4 p-3 bg-[#171717] border border-[#252525] rounded-lg">
   <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">5:00-5:30</div>
   <div class="flex-1">
     <h3 class="font-semibold">Juanjo: Cursor Is All You Need</h3>
-    <p class="text-sm opacity-60">Introduction to Cursor fundamentals</p>
   </div>
 </div>
 
-<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded-lg">
+<div class="flex items-center gap-4 p-3 bg-[#171717] border border-[#252525] rounded-lg">
   <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">5:30-6:00</div>
   <div class="flex-1">
     <h3 class="font-semibold">Q&A Session</h3>
-    <p class="text-sm opacity-60">Community questions & discussion</p>
   </div>
 </div>
 
-<div class="flex items-center gap-4 p-4 bg-[#0F0F0F] border-2 border-[#6E6E6E] rounded-lg">
+<div class="flex items-center gap-4 p-3 bg-[#0F0F0F] border-2 border-[#6E6E6E] rounded-lg">
   <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">6:00-6:30</div>
   <div class="flex-1">
-    <h3 class="font-semibold">Dan Perks (Cursor Team)</h3>
-    <p class="text-sm opacity-60">Virtual session with special guest</p>
+    <h3 class="font-semibold">Dan Perks (Cursor Team) - Virtual Session</h3>
   </div>
 </div>
 
-<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded-lg">
-  <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">6:30-7:00</div>
+<div class="flex items-center gap-4 p-3 bg-[#171717] border border-[#252525] rounded-lg">
+  <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">6:30-7:15</div>
   <div class="flex-1">
-    <h3 class="font-semibold">Juanjo: Advanced Demos</h3>
-    <p class="text-sm opacity-60">Power user workflows & tips</p>
+    <h3 class="font-semibold">Juanjo: Some Demos</h3>
   </div>
 </div>
 
-<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded-lg">
-  <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">7:00-8:30</div>
+<div class="flex items-center gap-4 p-3 bg-[#171717] border border-[#252525] rounded-lg">
+  <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">7:15-8:30</div>
   <div class="flex-1">
-    <h3 class="font-semibold">Networking & F&B</h3>
-    <p class="text-sm opacity-60">Open discussions & community building</p>
+    <h3 class="font-semibold">Networking, F&B & Open Discussions</h3>
   </div>
 </div>
 
-<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded-lg">
+<div class="flex items-center gap-4 p-3 bg-[#171717] border border-[#252525] rounded-lg">
   <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">8:30+</div>
   <div class="flex-1">
-    <h3 class="font-semibold">Optional Afterparty 🎉</h3>
-    <p class="text-sm opacity-60">Continue the conversation</p>
+    <h3 class="font-semibold">(Optional) Afterparty 🎉</h3>
   </div>
 </div>
 
@@ -208,20 +200,22 @@ Cursor is a programming environment powered by large language models (LLMs) desi
 
 </div>
 
----
-layout: two-cols
-layoutClass: gap-16
----
+--- 
 
-# Core Features
+## Core Features
 
-::left::
+<div class="grid grid-cols-2 gap-2 mt-2">
+
+<div class="bg-[#171717] border border-[#252525] rounded p-6">
 
 ## **🎯 Tab (Autocomplete)**
 - In-house model trained on code
 - Multi-line and block suggestions
 - Cross-file navigation
 - Natural coding workflow
+</div>
+
+<div class="bg-[#171717] border border-[#252525] rounded p-6">
 
 ## **✏️ Inline Edit**
 - Highlight code + Cmd+K
@@ -229,7 +223,9 @@ layoutClass: gap-16
 - Add documentation
 - Rewrite functions
 
-::right::
+</div>
+
+<div class="bg-[#171717] border border-[#252525] rounded p-6">
 
 ## **🤖 Agent**
 - Read/write codebase access
@@ -237,6 +233,10 @@ layoutClass: gap-16
 - Agent mode: Takes action
 - Multi-step reasoning
 - Background execution
+
+</div>
+
+</div>
 
 ---
 
