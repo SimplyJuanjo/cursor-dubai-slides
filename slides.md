@@ -80,41 +80,45 @@ layout: cover
 
 <div class="grid grid-cols-2 gap-8 mt-8">
 
-<div class="bg-gradient-to-br from-[#1E3A8A] to-[#3B82F6] border border-[#3B82F6] rounded-lg p-6">
+<div class="group bg-gradient-to-br from-[#1E3A8A] to-[#3B82F6] border border-[#3B82F6] rounded-lg p-6 transform hover:scale-105 transition-all duration-300 hover:shadow-2xl hover:shadow-blue-500/25">
   <h3 class="text-xl font-semibold mb-4 text-white">Professional</h3>
   <div class="space-y-3">
     <div class="flex items-start gap-3">
-      <span class="text-lg">🏥</span>
+      <span class="text-lg group-hover:animate-bounce">🏥</span>
       <span class="text-sm text-white opacity-90">Building Medical AI team @ <b>Department of Health Abu Dhabi</b></span>
     </div>
     <div class="flex items-start gap-3">
-      <span class="text-lg">🎓</span>
+      <span class="text-lg group-hover:animate-bounce" style="animation-delay: 0.1s">🎓</span>
       <span class="text-sm text-white opacity-90">Pharmacy → 2 AI/Research Masters → Healthcare AI and GenAI Expert</span>
     </div>
     <div class="flex items-start gap-3">
-      <span class="text-lg">🚀</span>
+      <span class="text-lg group-hover:animate-bounce" style="animation-delay: 0.2s">🚀</span>
       <span class="text-sm text-white opacity-90">Co-founder of <b>AI, Drugs & Robots</b> (170k+ community)</span>
     </div>
     <div class="flex items-start gap-3">
-      <span class="text-lg">💻</span>
+      <span class="text-lg group-hover:animate-bounce" style="animation-delay: 0.3s">💻</span>
       <span class="text-sm text-white opacity-90">Teaching Cursor across Spanish-speaking AI master's and courses</span>
     </div>
   </div>
 </div>
 
-<div class="bg-gradient-to-br from-[#059669] to-[#10B981] border border-[#10B981] rounded-lg p-6">
+<div class="group bg-gradient-to-br from-[#059669] to-[#10B981] border border-[#10B981] rounded-lg p-6 transform hover:scale-105 transition-all duration-300 hover:shadow-2xl hover:shadow-green-500/25">
   <h3 class="text-xl font-semibold mb-4 text-white">Personal</h3>
   <div class="space-y-3">
     <div class="flex items-start gap-3">
-      <span class="text-lg">🥋</span>
+      <span class="text-lg group-hover:animate-bounce">💪</span>
+      <span class="text-sm text-white opacity-90">Calisthenics fanatic</span>
+    </div>
+    <div class="flex items-start gap-3">
+      <span class="text-lg group-hover:animate-bounce" style="animation-delay: 0.1s">🥋</span>
       <span class="text-sm text-white opacity-90">BJJ practitioner 🟣</span>
     </div>
     <div class="flex items-start gap-3">
-      <span class="text-lg">🥽</span>
-      <span class="text-sm text-white opacity-90">VR enthusiast</span>
+      <span class="text-lg group-hover:animate-bounce" style="animation-delay: 0.2s">🥽</span>
+      <span class="text-sm text-white opacity-90">Tech & VR enthusiast</span>
     </div>
     <div class="flex items-start gap-3">
-      <span class="text-lg">🧠</span>
+      <span class="text-lg group-hover:animate-bounce" style="animation-delay: 0.3s">🧠</span>
       <span class="text-sm text-white opacity-90">Next obsession: Neuroscience & Neurotech</span>
     </div>
   </div>
@@ -182,24 +186,70 @@ layout: cover
 layout: intro
 ---
 
-# Cursor Is All You Need
+<div class="flex items-center justify-center h-full">
+  <div class="text-center max-w-4xl">
+    <h1 class="text-7xl font-bold text-white mb-8 animate-pulse">
+      Cursor Is All You Need
+    </h1>
+    <p class="text-2xl text-white/80 font-medium animate-bounce">
+      The AI-First Programming Environment
+    </p>
+    <div class="flex justify-center gap-8 mt-12">
+      <span class="text-4xl hover:scale-150 transition-transform duration-500 hover:rotate-12">🧠</span>
+      <span class="text-4xl hover:scale-150 transition-transform duration-500 hover:-rotate-12">💻</span>
+      <span class="text-4xl hover:scale-150 transition-transform duration-500 hover:rotate-12">🚀</span>
+      <span class="text-4xl hover:scale-150 transition-transform duration-500 hover:-rotate-12">⚡</span>
+    </div>
+  </div>
+</div>
 
-**The AI-First Programming Environment**
+
 
 ---
 
-# What is Cursor?
+<div class="grid grid-cols-1 gap-4 mt-4">
 
-<div class="grid grid-cols-1 gap-6">
-
-## **An AI-First Code Editor**
+<div class="text-center">
+<h2 class="text-2xl font-bold text-white mb-2 animate-pulse">
+🤖 What is Cursor?
+</h2>
+<p class="text-sm text-white/90 max-w-xl mx-auto">
 Cursor is a programming/text editor environment powered by large language models (LLMs) designed to support developers across the spectrum of AI-assisted programming.
+</p>
+</div>
 
-## **Key Concepts**
-- **LLMs**: Predict the next token using context (conversation + files + prompts)
-- **Context**: The data the model sees when generating responses
-- **Tokens**: Units of text that determine size and cost
-- **Model Selection**: Choose LLMs based on use case, reasoning, speed, or cost
+<div class="text-center mt-4">
+<h2 class="text-xl font-bold text-white mb-3 animate-bounce">
+⚡ Key Concepts
+</h2>
+
+<div class="grid grid-cols-2 gap-3 max-w-2xl mx-auto">
+<div class="text-center">
+<div class="text-xl animate-spin" style="animation-duration: 4s">🧠</div>
+<h3 class="text-sm font-bold text-white">LLMs/LMMs</h3>
+<p class="text-xs text-white/80">Predict the next token using context</p>
+</div>
+
+<div class="text-center">
+<div class="text-xl animate-pulse">📝</div>
+<h3 class="text-sm font-bold text-white">Context</h3>
+<p class="text-xs text-white/80">The data/information the model sees when generating</p>
+</div>
+
+<div class="text-center">
+<div class="text-xl animate-bounce">🔤</div>
+<h3 class="text-sm font-bold text-white">Tokens</h3>
+<p class="text-xs text-white/80">Units of text/images that determine size and cost</p>
+</div>
+
+<div class="text-center">
+<div class="text-xl animate-ping" style="animation-duration: 2s">🎯</div>
+<h3 class="text-sm font-bold text-white">Model Selection</h3>
+<p class="text-xs text-white/80">Choose models based on use case, reasoning, speed, or cost</p>
+</div>
+</div>
+
+</div>
 
 </div>
 
@@ -399,6 +449,18 @@ Cursor is a programming/text editor environment powered by large language models
 
 </div>
 
+</div>
+
+---
+
+<div class="flex items-center justify-center h-full">
+<target id="cursor-is-all-you-need"></target>
+  <div class="max-w-4xl text-center">
+    <div class="border-[#A855F7] rounded-lg p-8">
+      <div class="text-6xl mb-6"></div>
+      <h2 class="text-3xl font-bold text-white mb-4">To Be Generated...</h2>
+    </div>
+  </div>
 </div>
 
 ---
