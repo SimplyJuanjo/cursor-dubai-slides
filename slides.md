@@ -33,6 +33,9 @@ layout: cover
     <a href="https://lu.ma/cursorcommunity/map" target="_blank" class="block hover:opacity-80 transition-opacity">
       <img src="./assets/map.png" alt="Community Map" class="mx-auto rounded" />
     </a>
+    <div class="text-center mt-2 text-lg text-yellow-400 opacity-100 font-bold">
+      Meetups TODAY: Kenya, Surabaya, Bucharest, Kampala and Abu Dhabi !!!
+    </div>
     <p class="text-center mt-4 text-sm opacity-80">Click to explore the global Cursor community</p>
   </div>
 </div>
@@ -43,28 +46,28 @@ layout: cover
 
 <div class="grid grid-cols-1 gap-6 mt-8">
 
-<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
+<div class="bg-gradient-to-br from-[#7C3AED] to-[#A855F7] border border-[#A855F7] rounded-lg p-6">
   <div class="flex items-center gap-4">
-    <div class="w-12 h-12 bg-[#6E6E6E] rounded-full flex items-center justify-center">
-      <span class="text-xl font-bold">JdO</span>
+    <div class="w-12 h-12 bg-gradient-to-br from-[#F97316] to-[#FBBF24] rounded-full flex items-center justify-center border-2 border-white shadow-lg">
+      <span class="text-xl font-bold text-gray-800">JdO</span>
     </div>
     <div>
-      <h3 class="font-semibold text-lg">Juanjo do Olmo</h3>
-      <p class="text-sm opacity-80">Cursor Ambassador UAE</p>
-      <p class="text-sm opacity-60">Medical AI Specialist @ Department of Health Abu Dhabi</p>
+      <h3 class="font-semibold text-lg text-white">Juanjo do Olmo</h3>
+      <p class="text-sm text-white opacity-90 font-medium">🇦🇪 Cursor Ambassador UAE</p>
+      <p class="text-sm text-white opacity-80">🏥 Medical AI Specialist @ Department of Health Abu Dhabi</p>
     </div>
   </div>
 </div>
 
-<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
+<div class="bg-gradient-to-br from-[#EC4899] to-[#F472B6] border border-[#F472B6] rounded-lg p-6">
   <div class="flex items-center gap-4">
-    <div class="w-12 h-12 bg-[#6E6E6E] rounded-full flex items-center justify-center">
-      <span class="text-xl font-bold">JB</span>
+    <div class="w-12 h-12 bg-gradient-to-br from-[#06B6D4] to-[#0EA5E9] rounded-full flex items-center justify-center border-2 border-white shadow-lg">
+      <span class="text-xl font-bold text-white">JB</span>
     </div>
     <div>
-      <h3 class="font-semibold text-lg">Juan Bautista</h3>
-      <p class="text-sm opacity-80">Cursor Team</p>
-      <p class="text-sm opacity-60">QA Engineer @ Cursor. Joining us virtually at 6:00 PM</p>
+      <h3 class="font-semibold text-lg text-white">Juan Bautista</h3>
+      <p class="text-sm text-white opacity-90 font-medium">⚡ Cursor Team</p>
+      <p class="text-sm text-white opacity-80">🔧 QA Engineer @ Cursor. Joining us virtually at 6:00 PM</p>
     </div>
   </div>
 </div>
@@ -77,42 +80,42 @@ layout: cover
 
 <div class="grid grid-cols-2 gap-8 mt-8">
 
-<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
-  <h3 class="text-xl font-semibold mb-4">Professional</h3>
+<div class="bg-gradient-to-br from-[#1E3A8A] to-[#3B82F6] border border-[#3B82F6] rounded-lg p-6">
+  <h3 class="text-xl font-semibold mb-4 text-white">Professional</h3>
   <div class="space-y-3">
     <div class="flex items-start gap-3">
       <span class="text-lg">🏥</span>
-      <span class="text-sm">Building Medical AI team @ <b>Department of Health Abu Dhabi</b></span>
+      <span class="text-sm text-white opacity-90">Building Medical AI team @ <b>Department of Health Abu Dhabi</b></span>
     </div>
     <div class="flex items-start gap-3">
       <span class="text-lg">🎓</span>
-      <span class="text-sm">Pharmacy → 2 AI/Research Masters → Healthcare AI and GenAI Expert</span>
+      <span class="text-sm text-white opacity-90">Pharmacy → 2 AI/Research Masters → Healthcare AI and GenAI Expert</span>
     </div>
     <div class="flex items-start gap-3">
       <span class="text-lg">🚀</span>
-      <span class="text-sm">Co-founder of <b>AI, Drugs & Robots</b> (170k+ community)</span>
+      <span class="text-sm text-white opacity-90">Co-founder of <b>AI, Drugs & Robots</b> (170k+ community)</span>
     </div>
     <div class="flex items-start gap-3">
       <span class="text-lg">💻</span>
-      <span class="text-sm">Teaching Cursor across Spanish-speaking AI master's and courses</span>
+      <span class="text-sm text-white opacity-90">Teaching Cursor across Spanish-speaking AI master's and courses</span>
     </div>
   </div>
 </div>
 
-<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
-  <h3 class="text-xl font-semibold mb-4">Personal</h3>
+<div class="bg-gradient-to-br from-[#059669] to-[#10B981] border border-[#10B981] rounded-lg p-6">
+  <h3 class="text-xl font-semibold mb-4 text-white">Personal</h3>
   <div class="space-y-3">
     <div class="flex items-start gap-3">
       <span class="text-lg">🥋</span>
-      <span class="text-sm">BJJ practitioner 🟣</span>
+      <span class="text-sm text-white opacity-90">BJJ practitioner 🟣</span>
     </div>
     <div class="flex items-start gap-3">
       <span class="text-lg">🥽</span>
-      <span class="text-sm">VR enthusiast</span>
+      <span class="text-sm text-white opacity-90">VR enthusiast</span>
     </div>
     <div class="flex items-start gap-3">
       <span class="text-lg">🧠</span>
-      <span class="text-sm">Next obsession: Neuroscience & Neurotech</span>
+      <span class="text-sm text-white opacity-90">Next obsession: Neuroscience & Neurotech</span>
     </div>
   </div>
 </div>
@@ -206,33 +209,33 @@ Cursor is a programming/text editor environment powered by large language models
 
 <div class="grid grid-cols-2 gap-2 mt-2">
 
-<div class="bg-[#171717] border border-[#252525] rounded p-6">
+<div class="bg-gradient-to-br from-[#1E3A8A] to-[#3B82F6] border border-[#3B82F6] rounded p-6">
 
 ## **🎯 Tab (Autocomplete)**
-- In-house model trained on code
-- Multi-line and block suggestions
-- Cross-file navigation
-- Natural coding workflow
+- <span class="text-white opacity-90">In-house model trained on code</span>
+- <span class="text-white opacity-90">Multi-line and block suggestions</span>
+- <span class="text-white opacity-90">Cross-file navigation</span>
+- <span class="text-white opacity-90">Natural coding workflow</span>
 </div>
 
-<div class="bg-[#171717] border border-[#252525] rounded p-6">
+<div class="bg-gradient-to-br from-[#059669] to-[#10B981] border border-[#10B981] rounded p-6">
 
 ## **✏️ Inline Edit**
-- Highlight code + Cmd+K
-- Perfect for refactoring
-- Add documentation
-- Rewrite functions
+- <span class="text-white opacity-90">Highlight code + Cmd+K</span>
+- <span class="text-white opacity-90">Perfect for refactoring</span>
+- <span class="text-white opacity-90">Add documentation</span>
+- <span class="text-white opacity-90">Rewrite functions</span>
 
 </div>
 
-<div class="bg-[#171717] border border-[#252525] rounded p-6">
+<div class="bg-gradient-to-br from-[#D97706] to-[#F59E0B] border border-[#F59E0B] rounded p-6">
 
 ## **🤖 Agent**
-- Read/write codebase access
-- Ask mode: Query responses
-- Agent mode: Takes action
-- Multi-step reasoning
-- Background execution
+- <span class="text-white opacity-90">Read/write codebase access</span>
+- <span class="text-white opacity-90">Ask mode: Query responses</span>
+- <span class="text-white opacity-90">Agent mode: Takes action</span>
+- <span class="text-white opacity-90">Multi-step reasoning</span>
+- <span class="text-white opacity-90">Background execution</span>
 
 </div>
 
@@ -246,23 +249,23 @@ Cursor is a programming/text editor environment powered by large language models
 
 <div class="grid grid-cols-2 gap-8 mt-8">
 
-<div class="bg-[#171717] border border-[#252525] rounded p-6">
+<div class="bg-gradient-to-br from-[#DC2626] to-[#EF4444] border border-[#EF4444] rounded p-6">
 
 ### **Context Window**
-- System prompts
-- File attachments
-- User input
-- Conversation history
+- <span class="text-white opacity-90">System prompts</span>
+- <span class="text-white opacity-90">File attachments</span>
+- <span class="text-white opacity-90">User input</span>
+- <span class="text-white opacity-90">Conversation history</span>
 
 </div>
 
-<div class="bg-[#171717] border border-[#252525] rounded p-6">
+<div class="bg-gradient-to-br from-[#7C3AED] to-[#A855F7] border border-[#A855F7] rounded p-6">
 
 ### **Smart Features**
-- Context visualization
-- Auto-summarization
-- Intelligent caching
-- Tool calling
+- <span class="text-white opacity-90">Context visualization</span>
+- <span class="text-white opacity-90">Auto-summarization</span>
+- <span class="text-white opacity-90">Intelligent caching</span>
+- <span class="text-white opacity-90">Tool calling</span>
 
 </div>
 
@@ -276,33 +279,33 @@ Cursor is a programming/text editor environment powered by large language models
 
 <div class="grid grid-cols-3 gap-6 mt-8">
 
-<div class="bg-[#171717] border border-[#252525] rounded p-4">
+<div class="bg-gradient-to-br from-[#1E3A8A] to-[#3B82F6] border border-[#3B82F6] rounded p-4">
 
 ### **Generation**
-- Code creation
-- Test writing
-- Documentation
-- Planning
+- <span class="text-white opacity-90">Code creation</span>
+- <span class="text-white opacity-90">Test writing</span>
+- <span class="text-white opacity-90">Documentation</span>
+- <span class="text-white opacity-90">Planning</span>
 
 </div>
 
-<div class="bg-[#171717] border border-[#252525] rounded p-4">
+<div class="bg-gradient-to-br from-[#059669] to-[#10B981] border border-[#10B981] rounded p-4">
 
 ### **Analysis**
-- Code search
-- Debugging
-- Refactoring
-- Optimization
+- <span class="text-white opacity-90">Code search</span>
+- <span class="text-white opacity-90">Debugging</span>
+- <span class="text-white opacity-90">Refactoring</span>
+- <span class="text-white opacity-90">Optimization</span>
 
 </div>
 
-<div class="bg-[#171717] border border-[#252525] rounded p-4">
+<div class="bg-gradient-to-br from-[#D97706] to-[#F59E0B] border border-[#F59E0B] rounded p-4">
 
 ### **Best Practices**
-- Small commits
-- Strong tests
-- Clear prompts
-- Version control
+- <span class="text-white opacity-90">Small commits</span>
+- <span class="text-white opacity-90">Strong tests</span>
+- <span class="text-white opacity-90">Clear prompts</span>
+- <span class="text-white opacity-90">Version control</span>
 
 </div>
 
@@ -316,24 +319,24 @@ Cursor is a programming/text editor environment powered by large language models
 
 <div class="flex flex-col gap-4 mt-8">
 
-<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded">
-  <div class="w-8 h-8 bg-[#6E6E6E] text-white rounded-full flex items-center justify-center font-bold">1</div>
-  <div><strong>Tab Autocomplete:</strong> Begin typing and accept suggestions with Tab</div>
+<div class="flex items-center gap-4 p-4 bg-gradient-to-r from-[#1E3A8A] to-[#3B82F6] border border-[#3B82F6] rounded">
+  <div class="w-8 h-8 bg-white text-[#3B82F6] rounded-full flex items-center justify-center font-bold">1</div>
+  <div class="text-white"><strong>Tab Autocomplete:</strong> Begin typing and accept suggestions with Tab</div>
 </div>
 
-<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded">
-  <div class="w-8 h-8 bg-[#6E6E6E] text-white rounded-full flex items-center justify-center font-bold">2</div>
-  <div><strong>Inline Edit:</strong> Select code, press Cmd+K, ask for changes</div>
+<div class="flex items-center gap-4 p-4 bg-gradient-to-r from-[#059669] to-[#10B981] border border-[#10B981] rounded">
+  <div class="w-8 h-8 bg-white text-[#10B981] rounded-full flex items-center justify-center font-bold">2</div>
+  <div class="text-white"><strong>Inline Edit:</strong> Select code, press Cmd+K, ask for changes</div>
 </div>
 
-<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded">
-  <div class="w-8 h-8 bg-[#6E6E6E] text-white rounded-full flex items-center justify-center font-bold">3</div>
-  <div><strong>Agent Chat:</strong> "Add tests" or "Refactor this class" (Cmd+I)</div>
+<div class="flex items-center gap-4 p-4 bg-gradient-to-r from-[#D97706] to-[#F59E0B] border border-[#F59E0B] rounded">
+  <div class="w-8 h-8 bg-white text-[#F59E0B] rounded-full flex items-center justify-center font-bold">3</div>
+  <div class="text-white"><strong>Agent Chat:</strong> "Add tests" or "Refactor this class" (Cmd+I)</div>
 </div>
 
-<div class="flex items-center gap-4 p-4 bg-[#171717] border border-[#252525] rounded">
-  <div class="w-8 h-8 bg-[#6E6E6E] text-white rounded-full flex items-center justify-center font-bold">4</div>
-  <div><strong>Background Agent:</strong> Run broader tasks like "Find and fix bugs"</div>
+<div class="flex items-center gap-4 p-4 bg-gradient-to-r from-[#DC2626] to-[#EF4444] border border-[#EF4444] rounded">
+  <div class="w-8 h-8 bg-white text-[#EF4444] rounded-full flex items-center justify-center font-bold">4</div>
+  <div class="text-white"><strong>Background Agent:</strong> Run broader tasks like "Find and fix bugs"</div>
 </div>
 
 </div>
@@ -430,47 +433,47 @@ Cursor is a programming/text editor environment powered by large language models
 
 <div class="grid grid-cols-2 gap-6 mt-8">
 
-<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
-  <h3 class="text-xl font-semibold mb-4 text-center">We're Looking For</h3>
+<div class="bg-gradient-to-br from-[#1E3A8A] to-[#3B82F6] border border-[#3B82F6] rounded-lg p-6">
+  <h3 class="text-xl font-semibold mb-4 text-center text-white">We're Looking For</h3>
   <div class="space-y-4">
     <div class="flex items-center gap-3">
       <span class="text-2xl">🎯</span>
       <div>
-        <div class="font-semibold">Cool Demos</div>
-        <div class="text-sm opacity-60">Show what you've built with Cursor</div>
+        <div class="font-semibold text-white">Cool Demos</div>
+        <div class="text-sm text-white opacity-70">Show what you've built with Cursor</div>
       </div>
     </div>
     <div class="flex items-center gap-3">
       <span class="text-2xl">🤝</span>
       <div>
-        <div class="font-semibold">Partners & Sponsors</div>
-        <div class="text-sm opacity-60">Support our growing community</div>
+        <div class="font-semibold text-white">Partners & Sponsors</div>
+        <div class="text-sm text-white opacity-70">Support our growing community</div>
       </div>
     </div>
     <div class="flex items-center gap-3">
       <span class="text-2xl">👨‍🏫</span>
       <div>
-        <div class="font-semibold">Teachers & Educators</div>
-        <div class="text-sm opacity-60">Share your expertise</div>
+        <div class="font-semibold text-white">Teachers & Educators</div>
+        <div class="text-sm text-white opacity-70">Share your expertise</div>
       </div>
     </div>
     <div class="flex items-center gap-3">
       <span class="text-2xl">🚀</span>
       <div>
-        <div class="font-semibold">Success Stories</div>
-        <div class="text-sm opacity-60">Inspire others with your journey</div>
+        <div class="font-semibold text-white">Success Stories</div>
+        <div class="text-sm text-white opacity-70">Inspire others with your journey</div>
       </div>
     </div>
   </div>
 </div>
 
-<div class="bg-[#171717] border border-[#252525] rounded-lg p-6 flex flex-col justify-center">
+<div class="bg-gradient-to-br from-[#059669] to-[#10B981] border border-[#10B981] rounded-lg p-6 flex flex-col justify-center">
   <div class="text-center">
-    <h3 class="text-xl font-semibold mb-4">Get In Touch</h3>
-    <div class="bg-[#0F0F0F] border border-[#252525] rounded-lg p-4">
-      <div class="text-lg font-mono">juanjodoolmo@gmail.com</div>
+    <h3 class="text-xl font-semibold mb-4 text-white">Get In Touch</h3>
+    <div class="bg-white/20 border border-white/30 rounded-lg p-4">
+      <div class="text-lg font-mono text-white">juanjodoolmo@gmail.com</div>
     </div>
-    <p class="text-sm opacity-60 mt-4">Ready to share your Cursor story?</p>
+    <p class="text-sm text-white opacity-70 mt-4">Ready to share your Cursor story?</p>
   </div>
 </div>
 
@@ -590,30 +593,30 @@ Cursor is a programming/text editor environment powered by large language models
 
 <div class="grid grid-cols-2 gap-8 mt-8">
 
-<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
-  <h3 class="text-xl font-semibold mb-4 text-center">During the Event</h3>
+<div class="bg-gradient-to-br from-[#7C3AED] to-[#A855F7] border border-[#A855F7] rounded-lg p-6">
+  <h3 class="text-xl font-semibold mb-4 text-center text-white">During the Event</h3>
   <div class="space-y-3">
     <div class="flex items-center gap-3">
-      <span class="w-6 h-6 bg-[#6E6E6E] rounded text-xs flex items-center justify-center">1</span>
-      <span class="text-sm">Share your projects powered by Cursor</span>
+      <span class="w-6 h-6 bg-white text-[#A855F7] rounded text-xs flex items-center justify-center font-bold">1</span>
+      <span class="text-sm text-white opacity-90">Share your projects powered by Cursor</span>
     </div>
     <div class="flex items-center gap-3">
-      <span class="w-6 h-6 bg-[#6E6E6E] rounded text-xs flex items-center justify-center">2</span>
-      <span class="text-sm">Ask questions and learn from peers</span>
+      <span class="w-6 h-6 bg-white text-[#A855F7] rounded text-xs flex items-center justify-center font-bold">2</span>
+      <span class="text-sm text-white opacity-90">Ask questions and learn from peers</span>
     </div>
   </div>
 </div>
 
-<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
-  <h3 class="text-xl font-semibold mb-4 text-center">After Tonight</h3>
+<div class="bg-gradient-to-br from-[#DC2626] to-[#EF4444] border border-[#EF4444] rounded-lg p-6">
+  <h3 class="text-xl font-semibold mb-4 text-center text-white">After Tonight</h3>
   <div class="space-y-3">
     <div class="flex items-center gap-3">
-      <span class="w-6 h-6 bg-[#6E6E6E] rounded text-xs flex items-center justify-center">3</span>
-      <span class="text-sm">Connect with the community</span>
+      <span class="w-6 h-6 bg-white text-[#EF4444] rounded text-xs flex items-center justify-center font-bold">3</span>
+      <span class="text-sm text-white opacity-90">Connect with the community</span>
     </div>
     <div class="flex items-center gap-3">
-      <span class="w-6 h-6 bg-[#6E6E6E] rounded text-xs flex items-center justify-center">4</span>
-      <span class="text-sm">Shape the future of development in UAE</span>
+      <span class="w-6 h-6 bg-white text-[#EF4444] rounded text-xs flex items-center justify-center font-bold">4</span>
+      <span class="text-sm text-white opacity-90">Shape the future of development in UAE</span>
     </div>
   </div>
 </div>
