@@ -203,7 +203,9 @@ layout: intro
   </div>
 </div>
 
+---
 
+<GalacticAnimation />
 
 ---
 
