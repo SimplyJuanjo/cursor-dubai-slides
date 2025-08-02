@@ -1,7 +1,7 @@
 ---
-title: Cursor Meetup Dubai
+title: Cursor Meetup Abu Dhabi
 info: |
-  26 July 2025 · 4:30 PM – 8:30 PM · Dubai, UAE
+  2 August 2025 · 4:30 PM – 8:30 PM · Abu Dhabi, UAE
 class: bg-[#0F0F0F] text-white text-center
 mdc: true
 theme: slidev-theme-cursor
@@ -13,7 +13,7 @@ layout: cover
     <h2 class="text-3xl font-bold mb-6">Access the Slides</h2>
     <img src="./assets/slides_qr.png" alt="Slides QR Code" class="mx-auto mb-4 w-48" />
     <div class="bg-[#0F0F0F] border border-[#252525] rounded p-3">
-      <a href="https://SimplyJuanjo.github.io/cursor-dubai-slides/" class="text-sm text-white opacity-80 hover:opacity-100 transition-opacity">SimplyJuanjo.github.io/cursor-dubai-slides</a>
+      <a href="https://SimplyJuanjo.github.io/cursor-slides/" class="text-sm text-white opacity-80 hover:opacity-100 transition-opacity">SimplyJuanjo.github.io/cursor-slides</a>
     </div>
   </div>
 </div>
@@ -21,7 +21,7 @@ layout: cover
 ---
 
 <GlowBackground>
-  <h1 class="text-6xl md:text-8xl font-bold tracking-tight text-white">Cursor Dubai</h1>
+  <h1 class="text-6xl md:text-8xl font-bold tracking-tight text-white">Cursor Abu Dhabi</h1>
 </GlowBackground>
 
 ---
@@ -59,12 +59,12 @@ layout: cover
 <div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
   <div class="flex items-center gap-4">
     <div class="w-12 h-12 bg-[#6E6E6E] rounded-full flex items-center justify-center">
-      <span class="text-xl font-bold">DP</span>
+      <span class="text-xl font-bold">JB</span>
     </div>
     <div>
-      <h3 class="font-semibold text-lg">Dan Perks</h3>
+      <h3 class="font-semibold text-lg">Juan Bautista</h3>
       <p class="text-sm opacity-80">Cursor Team</p>
-      <p class="text-sm opacity-60">Joining us virtually at 6:00 PM</p>
+      <p class="text-sm opacity-60">QA Engineer @ Cursor. Joining us virtually at 6:00 PM</p>
     </div>
   </div>
 </div>
@@ -86,7 +86,7 @@ layout: cover
     </div>
     <div class="flex items-start gap-3">
       <span class="text-lg">🎓</span>
-      <span class="text-sm">Pharmacy → AI/Research Masters → Healthcare AI and GenAI</span>
+      <span class="text-sm">Pharmacy → 2 AI/Research Masters → Healthcare AI and GenAI Expert</span>
     </div>
     <div class="flex items-start gap-3">
       <span class="text-lg">🚀</span>
@@ -94,7 +94,7 @@ layout: cover
     </div>
     <div class="flex items-start gap-3">
       <span class="text-lg">💻</span>
-      <span class="text-sm">Teaching Cursor across Spanish-speaking AI programs</span>
+      <span class="text-sm">Teaching Cursor across Spanish-speaking AI master's and courses</span>
     </div>
   </div>
 </div>
@@ -125,30 +125,37 @@ layout: cover
 <div class="grid grid-cols-1 gap-1 mt-2">
 
 <div class="flex items-center gap-4 p-3 bg-[#171717] border border-[#252525] rounded-lg">
-  <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">4:30-5:00</div>
+  <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">4:30-4:45</div>
   <div class="flex-1">
     <h3 class="font-semibold">Welcome & Ice Breakers</h3>
   </div>
 </div>
 
-<div class="flex items-center gap-4 p-3 bg-[#171717] border border-[#252525] rounded-lg">
-  <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">5:00-5:30</div>
+<div class="flex items-center gap-4 p-3 bg-[#1E3A8A] border border-[#3B82F6] rounded-lg">
+  <div class="bg-[#3B82F6] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">4:45-5:15</div>
   <div class="flex-1">
     <h3 class="font-semibold">Juanjo: Cursor Is All You Need</h3>
   </div>
 </div>
 
 <div class="flex items-center gap-4 p-3 bg-[#171717] border border-[#252525] rounded-lg">
-  <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">5:30-6:00</div>
+  <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">5:15-5:50</div>
   <div class="flex-1">
-    <h3 class="font-semibold">Q&A Session</h3>
+    <h3 class="font-semibold">Q&A Session and Special Guest</h3>
   </div>
 </div>
 
 <div class="flex items-center gap-4 p-3 bg-[#0F0F0F] border-2 border-[#6E6E6E] rounded-lg">
-  <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">6:00-6:30</div>
+  <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">5:50-6:00</div>
   <div class="flex-1">
-    <h3 class="font-semibold">Dan Perks (Cursor Team) - Virtual Session</h3>
+    <h3 class="font-semibold">Break</h3>
+  </div>
+</div>
+
+<div class="flex items-center gap-4 p-3 bg-[#1E3A8A] border border-[#3B82F6] rounded-lg">
+  <div class="bg-[#3B82F6] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">6:00-6:30</div>
+  <div class="flex-1">
+    <h3 class="font-semibold">Juan Bautista (Cursor Team) - Virtual Session</h3>
   </div>
 </div>
 
@@ -162,14 +169,7 @@ layout: cover
 <div class="flex items-center gap-4 p-3 bg-[#171717] border border-[#252525] rounded-lg">
   <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">7:15-8:30</div>
   <div class="flex-1">
-    <h3 class="font-semibold">Networking, F&B & Open Discussions</h3>
-  </div>
-</div>
-
-<div class="flex items-center gap-4 p-3 bg-[#171717] border border-[#252525] rounded-lg">
-  <div class="bg-[#6E6E6E] text-white rounded-lg px-3 py-1 text-sm font-semibold min-w-[80px] text-center">8:30+</div>
-  <div class="flex-1">
-    <h3 class="font-semibold">(Optional) Afterparty 🎉</h3>
+    <h3 class="font-semibold">Networking, Food & Drinks, Open Discussions</h3>
   </div>
 </div>
 
@@ -190,13 +190,13 @@ layout: intro
 <div class="grid grid-cols-1 gap-6">
 
 ## **An AI-First Code Editor**
-Cursor is a programming environment powered by large language models (LLMs) designed to support developers across the spectrum of AI-assisted programming.
+Cursor is a programming/text editor environment powered by large language models (LLMs) designed to support developers across the spectrum of AI-assisted programming.
 
 ## **Key Concepts**
 - **LLMs**: Predict the next token using context (conversation + files + prompts)
 - **Context**: The data the model sees when generating responses
 - **Tokens**: Units of text that determine size and cost
-- **Model Selection**: Choose LLMs based on reasoning, speed, or cost
+- **Model Selection**: Choose LLMs based on use case, reasoning, speed, or cost
 
 </div>
 
@@ -372,10 +372,10 @@ Cursor is a programming environment powered by large language models (LLMs) desi
 <div class="flex items-center justify-center h-full">
 <div class="bg-[#171717] border border-[#252525] rounded-lg p-8 max-w-2xl text-center">
 <div class="w-24 h-24 bg-[#6E6E6E] rounded-full flex items-center justify-center mx-auto mb-6">
-<span class="text-2xl font-bold">DP</span>
+<span class="text-2xl font-bold">JB</span>
 </div>
-<h2 class="text-3xl font-bold mb-2">Dan Perks</h2>
-<p class="text-lg opacity-80 mb-6">Cursor Team</p>
+<h2 class="text-3xl font-bold mb-2">Juan Bautista</h2>
+<p class="text-lg opacity-80 mb-6">QA Engineer @ Cursor</p>
 
 <div class="bg-[#0F0F0F] border border-[#252525] rounded-lg p-4 mb-6">
 <div class="text-2xl font-bold mb-2">6:00 PM - Virtual Session</div>
@@ -482,7 +482,7 @@ Cursor is a programming environment powered by large language models (LLMs) desi
 
 <div class="flex items-center justify-center h-full">
   <div class="bg-[#171717] border border-[#252525] rounded-lg p-8 text-center max-w-2xl">
-    <img src="./assets/cursor-dubai.png" alt="Cursor UAE" class="w-80 mx-auto mb-6 rounded" />
+    <img src="./assets/cursor-abu-dhabi.png" alt="Cursor UAE" class="w-80 mx-auto mb-6 rounded" />
     <div class="grid grid-cols-2 gap-4">
       <div class="bg-[#0F0F0F] border border-[#252525] rounded p-3">
         <div class="font-semibold text-sm">Weekly Tips</div>
@@ -508,64 +508,36 @@ Cursor is a programming environment powered by large language models (LLMs) desi
 
 # Upcoming Events
 
-<div class="grid grid-cols-2 gap-8 mt-8">
-
-<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
-  <div class="flex items-center gap-3 mb-4">
-    <div class="w-10 h-10 bg-[#6E6E6E] rounded-full flex items-center justify-center">
-      <span class="text-sm font-bold">AD</span>
+<div class="flex items-center justify-center h-full">
+  <div class="bg-[#171717] border border-[#252525] rounded-lg p-8 max-w-2xl">
+    <div class="flex items-center gap-4 mb-6">
+      <div class="w-16 h-16 bg-gradient-to-br from-[#3B82F6] to-[#1E3A8A] rounded-full flex items-center justify-center">
+        <span class="text-lg font-bold text-white">Q4</span>
+      </div>
+      <div>
+        <h3 class="text-2xl font-semibold text-[#3B82F6]">After Summer</h3>
+        <p class="text-base opacity-60">September 2025</p>
+      </div>
     </div>
-    <div>
-      <h3 class="text-xl font-semibold">Cursor Abu Dhabi</h3>
-      <p class="text-sm opacity-60">Saturday, August 2nd</p>
-    </div>
-  </div>
-  <div class="space-y-3">
-    <div class="flex items-center gap-2">
-      <span class="w-2 h-2 bg-[#6E6E6E] rounded-full"></span>
-      <span class="text-sm">Similar intro format</span>
-    </div>
-    <div class="flex items-center gap-2">
-      <span class="w-2 h-2 bg-[#6E6E6E] rounded-full"></span>
-      <span class="text-sm">New demos & speakers</span>
-    </div>
-    <div class="flex items-center gap-2">
-      <span class="w-2 h-2 bg-[#6E6E6E] rounded-full"></span>
-      <span class="text-sm">Growing the capital's tech community</span>
-    </div>
-  </div>
-</div>
-
-<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
-  <div class="flex items-center gap-3 mb-4">
-    <div class="w-10 h-10 bg-[#6E6E6E] rounded-full flex items-center justify-center">
-      <span class="text-sm font-bold">Q4</span>
-    </div>
-    <div>
-      <h3 class="text-xl font-semibold">After Summer</h3>
-      <p class="text-sm opacity-60">September 2025</p>
+    <div class="space-y-4">
+      <div class="flex items-center gap-3">
+        <span class="w-3 h-3 bg-[#3B82F6] rounded-full"></span>
+        <span class="text-base">Large-scale events in both cities</span>
+      </div>
+      <div class="flex items-center gap-3">
+        <span class="w-3 h-3 bg-[#10B981] rounded-full"></span>
+        <span class="text-base">International speakers</span>
+      </div>
+      <div class="flex items-center gap-3">
+        <span class="w-3 h-3 bg-[#F59E0B] rounded-full"></span>
+        <span class="text-base">Hands-on workshops</span>
+      </div>
+      <div class="flex items-center gap-3">
+        <span class="w-3 h-3 bg-[#EF4444] rounded-full"></span>
+        <span class="text-base">Partnership showcases</span>
+      </div>
     </div>
   </div>
-  <div class="space-y-3">
-    <div class="flex items-center gap-2">
-      <span class="w-2 h-2 bg-[#6E6E6E] rounded-full"></span>
-      <span class="text-sm">Large-scale events in both cities</span>
-    </div>
-    <div class="flex items-center gap-2">
-      <span class="w-2 h-2 bg-[#6E6E6E] rounded-full"></span>
-      <span class="text-sm">International speakers</span>
-    </div>
-    <div class="flex items-center gap-2">
-      <span class="w-2 h-2 bg-[#6E6E6E] rounded-full"></span>
-      <span class="text-sm">Hands-on workshops</span>
-    </div>
-    <div class="flex items-center gap-2">
-      <span class="w-2 h-2 bg-[#6E6E6E] rounded-full"></span>
-      <span class="text-sm">Partner showcases</span>
-    </div>
-  </div>
-</div>
-
 </div>
 
 ---
@@ -576,36 +548,36 @@ Cursor is a programming environment powered by large language models (LLMs) desi
 
 <div class="grid grid-cols-2 gap-6 mt-8">
 
-<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
+<div class="bg-gradient-to-br from-[#1E3A8A] to-[#3B82F6] border border-[#3B82F6] rounded-lg p-6">
   <div class="flex items-center gap-3 mb-3">
     <span class="text-2xl">🌍</span>
-    <h3 class="text-lg font-semibold">Connect</h3>
+    <h3 class="text-lg font-semibold text-white">Connect</h3>
   </div>
-  <p class="text-sm opacity-80">Build bridges between developers across the Emirates, fostering collaboration and knowledge sharing</p>
+  <p class="text-sm text-white opacity-90">Build bridges between developers across the Emirates, fostering collaboration and knowledge sharing</p>
 </div>
 
-<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
+<div class="bg-gradient-to-br from-[#059669] to-[#10B981] border border-[#10B981] rounded-lg p-6">
   <div class="flex items-center gap-3 mb-3">
     <span class="text-2xl">📚</span>
-    <h3 class="text-lg font-semibold">Educate</h3>
+    <h3 class="text-lg font-semibold text-white">Educate</h3>
   </div>
-  <p class="text-sm opacity-80">Spread knowledge about AI-powered development and best practices for using Cursor effectively</p>
+  <p class="text-sm text-white opacity-90">Spread knowledge about AI-powered development and best practices for using Cursor effectively</p>
 </div>
 
-<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
+<div class="bg-gradient-to-br from-[#D97706] to-[#F59E0B] border border-[#F59E0B] rounded-lg p-6">
   <div class="flex items-center gap-3 mb-3">
     <span class="text-2xl">🚀</span>
-    <h3 class="text-lg font-semibold">Accelerate</h3>
+    <h3 class="text-lg font-semibold text-white">Accelerate</h3>
   </div>
-  <p class="text-sm opacity-80">Drive innovation in the region by empowering developers with cutting-edge AI tools and workflows</p>
+  <p class="text-sm text-white opacity-90">Drive innovation in the region by empowering developers with cutting-edge AI tools and workflows</p>
 </div>
 
-<div class="bg-[#171717] border border-[#252525] rounded-lg p-6">
+<div class="bg-gradient-to-br from-[#DC2626] to-[#EF4444] border border-[#EF4444] rounded-lg p-6">
   <div class="flex items-center gap-3 mb-3">
     <span class="text-2xl">🤝</span>
-    <h3 class="text-lg font-semibold">Collaborate</h3>
+    <h3 class="text-lg font-semibold text-white">Collaborate</h3>
   </div>
-  <p class="text-sm opacity-80">Strengthen ties with the global Cursor community while building our local ecosystem</p>
+  <p class="text-sm text-white opacity-90">Strengthen ties with the global Cursor community while building our local ecosystem</p>
 </div>
 
 </div>
@@ -680,7 +652,7 @@ Cursor is a programming environment powered by large language models (LLMs) desi
       </div>
     </div>    
     <div class="bg-[#6E6E6E] text-white rounded-lg p-4 mb-6">
-      <div class="font-bold text-lg">See you next week in Abu Dhabi!</div>
+      <div class="font-bold text-lg">Thanks for joining us today in Abu Dhabi!</div>
     </div>    
   </div>
 </div> 
